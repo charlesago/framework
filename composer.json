@@ -1,6 +1,6 @@
 {
     "name": "charlesago/framework",
-    "description": "a simple php framework",
+    "description": "frameword php",
     "type": "project",
     "license": "MIT",
     "autoload": {
