@@ -1,5 +1,5 @@
 {
-    "name": "esdlyonb2/framework-php",
+    "name": "charlesago/framework",
     "description": "a simple php framework",
     "type": "project",
     "license": "MIT",
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "ESD Lyon Dev Web b2",
-            "email": "pierre.lacognata@mail-esd.com"
+            "name": "charlesago",
+            "email": "chacha.agostinelli@gmail.com"
         }
     ],
     "prefer-stable": true,
